@@ -206,7 +206,7 @@ body {
         width: 100px;
     }
     .overlay-text {
-        font-size: 90px !important;
+        font-size: 60px !important;
     }   
     .game-container {
         grid-template-columns: repeat(3, auto);
