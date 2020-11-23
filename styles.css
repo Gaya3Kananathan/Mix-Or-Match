@@ -201,12 +201,12 @@ body {
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 700px) {
     .card {
         width: 100px;
     }
     .overlay-text {
-        font-size: 60px !important;
+        font-size: 80px !important;
     }   
     .game-container {
         grid-template-columns: repeat(3, auto);
